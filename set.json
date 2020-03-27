@@ -1,5 +1,6 @@
 {
 	"Roblox": true,
+	"GarrysMod": false,
 	"IsBranching": false,
 	"Target": "master",
 	"Home": "branch-json-crap"
